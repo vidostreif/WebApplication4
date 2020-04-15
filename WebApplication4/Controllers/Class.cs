@@ -8,6 +8,6 @@ namespace WebApplication4.Controllers
     public class Class
     {
         int i = 032321321;
-        int r = 0;
+        int r = 0321;
     }
 }
